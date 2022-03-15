@@ -1,0 +1,14 @@
+Sprint 2
+Nachdem sich der User erfolgreich eingeloggt hat, soll er verschiedene Menüs für verschiedene Dokumente haben. Wenn man sich 
+mit dem Adminuser angemeldet hat, soll es einen Button oben links geben, wo man in die User-Ansicht wechseln kann. Außerdem soll es
+eine Searchbar geben, die nach Interessen und Dokumenten sucht. In der User-Ansicht werden die Dokumente unter verschiedenen
+Interessen gegliedert. z.B.
+
+Interesse 1
+	Dok x	Download
+	Dok y	Download
+	Dok z	Download
+
+Interess 2
+	Dok 1	Download
+	xxxx
