@@ -1,6 +1,0 @@
-Sprint 1,
-Login Screen: User soll E-Mail, Vor/Nachname, Passwort, Telefonnummer und Geburtstag in ein Textfeld angeben. Diese Daten sollen in die Cloud geladen werden. Format: 
-E-Mail	Passwort	Nachname	Vorname Telefonnummer Geburtstag
-
-Dabei soll geprüft werden ob die Email valid ist, ob das Passwort mehr als 8 zeichen hat, ob die Telefonnummer Österreichisch ist und ob der User älter als 16 ist.
-Wenn sich jemand mit dem Admin Account einloggt, dann darf er sich aussuchen ob er in User Modus oder Admin Modus will.
