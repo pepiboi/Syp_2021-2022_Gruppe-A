@@ -19,4 +19,4 @@ können, oder die User-Ansicht benutzen wollen.
 
 Petar Ivanovic, Petar Golub, Kaan Yilmaz, Julian Zecher, Kevin Chen, Jakob Gschwendtner, Max Kammerer, Emil Kinzl,
 
-Jan Jungheinrich, Michael Mittermayr, Jonas Voitl
+Jan Jungheinrich, Michael Mittermayr, Jonas Voitl, Lukas Wilfingseder
